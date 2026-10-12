@@ -1,0 +1,6 @@
+if we want to take the input in java 
+we use 
+scanner sc = new scanner(system.in)
+scanner function is used and system.in is used
+then  = sc.nextline()= for text input
+for int= sc.nextint()= for integer input

@@ -1,0 +1,19 @@
+java is a typed language
+in order to give some input of type data 
+first we need to define it's type
+Data Types of two Types
+1- primitive(basic)
+-byte = 1byte = 8bits
+-short = 
+-char = 2 bytes
+-boolean =1 bytes 
+-int= 4 bytes 
+-long= 8 bytes 
+-float= 4 bytes 
+-double= 8 bytes 
+2-non primitive(advanced)
+- string
+-array
+-class
+-object
+-interface

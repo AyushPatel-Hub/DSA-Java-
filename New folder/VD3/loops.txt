@@ -1,0 +1,23 @@
+three loops
+for loops
+while loops
+do while loops
+syntax for for loop
+for( intiator; terminating condition; update)
+exaqmple- 
+for(int i=0; i>11; i++)
+i=i+1 == i++ both are same
+now syntax for while
+int i = 0;
+while(i<11){
+    system.out.println(i);
+    i=i+1;
+}
+now for do while
+syntax is
+do{
+    work
+} while(terminaing  condition)
+difference in vetween all of them is 
+for and while me condition pehele he check ho jate hai
+whereas in do while phele work hota hai fir condition check hote hai

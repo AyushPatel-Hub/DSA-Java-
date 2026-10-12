@@ -1,0 +1,6 @@
+in order to get output we have three methods
+1- system.out.print("");
+2- in order to get output in second line we can use 
+A-println
+B-("Hello world\n")
+3- If we want to output in the println command so after \n we write another things that will be printed in different line
