@@ -23,6 +23,7 @@ public class jobSequencing {
         }
         Collections.sort(jobs, (a,b)->b.profit-a.profit); // this sort the object based on the profit in descending order
          ArrayList<Integer> seq=new ArrayList<>();
+         
          int time=0;
          for(int i=0;i<jobs.size();i++){
             job curr=jobs.get(i);
